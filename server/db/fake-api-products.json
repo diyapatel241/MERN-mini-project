@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Banarasi Saree",
+    "price": 1057,
+    "description": "Banarasi saree for all your family functions",
+    "category": {
+      "id": 2,
+      "name": "handloom",
+      "image": "https://cdn.shopify.com/s/files/1/1224/2138/products/SR0018Red-RaniPinkPureKatanSilkMeenaPaithaniBorderSaree_6a4aa38b-57c9-4efc-84df-2022c4f596fa_1200x.jpg?v=1626436992?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Madhubani Painting",
+    "price": 700,
+    "description": "detailed handwork of Madhubani painting",
+    "category": {
+      "id": 5,
+      "name": "paintings",
+      "image": "https://i.pinimg.com/originals/ff/fb/e4/fffbe4dca531b7a7308b43560c14bdb7.jpg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Kanchipuram Saree",
+    "price": 1157,
+    "description": "Get your South Indian style with our kanchipuram saree",
+    "category": {
+      "id": 2,
+      "name": "handloom",
+      "image": "https://bns-fashion.com/wp-content/uploads/2022/07/Kanchipuram-Silk-Sarees.jpg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Charan Paduka",
+    "price": 170,
+    "description": "give your feet cultural charan paduka",
+    "category": {
+      "id": 1,
+      "name": "chappals",
+      "image": "https://www.rudraksha-ratna.com/uploads/product/images/fullsize/13864auspicious-paduka-sandalwood-big.jpg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Woolen Shawls",
+    "price": 800,
+    "description": "Winters got traditional with woolen shawls",
+    "category": {
+      "id": 2,
+      "name": "handloom",
+      "image": "https://admin.ahujasons.com/product/AS01098736/500/AS01098736_1.jpg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Bandhani",
+    "price": 1070,
+    "description": "Bandhani for all gujaratis out there",
+    "category": {
+      "id": 2,
+      "name": "handloom",
+      "image": "https://i.etsystatic.com/24970975/r/il/cd387f/4162856592/il_fullxfull.4162856592_8dgd.jpg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Kalamkari Paintings",
+    "price": 500,
+    "description": "Decorate temples with kalamkari paintings",
+    "category": {
+      "id": 5,
+      "name": "paintings",
+      "image": "http://cdn.shopify.com/s/files/1/2447/5025/articles/Very-Large-Kalamkari-South-Indian-Wallhanging93c_1200x1200.jpg?v=1572351144?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Wooden Carving",
+    "price": 1695,
+    "description": "Make your room more traditional with our wooden carved dividers",
+    "category": {
+      "id": 4,
+      "name": "carving",
+      "image": "https://i.pinimg.com/originals/72/d2/aa/72d2aab384066d20167dbd9c61372c48.jpg?w=940&h=480&r=2620"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Clay Pots",
+    "price": 905,
+    "description": "Handmade pots for all daily needs",
+    "category": {
+      "id": 3,
+      "name": "pottery",
+      "image": "http://www.lisayorkarts.com/uploads/3/9/8/4/3984065/additional-cups-in-artist-cup-collection_orig.jpg?w=640&h=480&r=3970"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Ladies Chappals",
+    "price": 200,
+    "description": "chappals for all indian outfits",
+    "category": {
+      "id": 1,
+      "name": "chappals",
+      "image": "https://m.media-amazon.com/images/I/91ThT66npOL._UL1500_.jpg?w=640&h=480&r=6236"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Miniature Painting",
+    "price": 750,
+    "description": "Miniature painting for all aesthetic lovers",
+    "category": {
+      "id": 5,
+      "name": "paintings",
+      "image": "https://cdn.shopify.com/s/files/1/0286/0541/5499/products/IMG20191226201552_1024x1024@2x.jpg?v=1608294228?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Marble Carving",
+    "price": 1000,
+    "description": "Marble carvings for new temples built",
+    "category": {
+      "id": 4,
+      "name": "carving",
+      "image": "https://previews.123rf.com/images/kreativeart/kreativeart1510/kreativeart151000061/47556137-white-marble-carvings-at-ranakpur-jain-temple-rajasthan-india.jpg?w=640&h=480&r=9511"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Village Painting",
+    "price": 750,
+    "description": "Potrait of Indian Culture",
+    "category": {
+      "id": 5,
+      "name": "paintings",
+      "image": "https://www.all-about-india.com/images/Indian-art-Painting-Woman-and-Child.jpg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Blue Print Pottery",
+    "price": 1481,
+    "description": "Blue print to fullfill your rajwadi touch",
+    "category": {
+      "id": 3,
+      "name": "pottery",
+      "image": "https://i.pinimg.com/originals/12/7f/3e/127f3ec87d104397faa3eddf5a0b69af.jpg?w=640&h=480&r=6608"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Jutis",
+    "price": 300,
+    "description": "Jutis for marriage festival",
+    "category": {
+      "id": 1,
+      "name": "chappals",
+      "image": "https://cdn.shopify.com/s/files/1/0539/3340/8435/products/EXTRA-GOLD-WEB-3_grande.jpg?v=1622096069?w=640&h=480&r=9078"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Heels",
+    "price": 1050,
+    "description": "Heels for all short girls out there",
+    "category": {
+      "id": 1,
+      "name": "chappals",
+      "image": "https://cdn.shopify.com/s/files/1/1268/9519/files/blog_Gold-Platform-Peeptoe-Custom-Wedding-Shoes-with-Gold-Glitter-Sole-and-Gold-Coral-and-Fuschia-Ombre-Heel-and-Applique-Design-for-an-Indian-Wedding-by-Ellie-Wren-Custom-Wedding-Shoes-91-1024x1024.jpg?15476020467930815683?w=640&h=480&r=8268"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Worli Paintings",
+    "price": 550,
+    "description": "Decorate school with our collection of worli paintings",
+    "category": {
+      "id": 5,
+      "name": "paintings",
+      "image": "https://www.gujarattourism.com/content/gujrattourism/en/handicrafts/warli-painting/_jcr_content/root/responsivegrid/pagebanner.coreimg.jpeg/1594757420641/warli-painting-banner.jpeg?w=640&h=480&r=2960?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Abstract Paintings",
+    "price": 950,
+    "description": "Abstract paintings for all minimalists",
+    "category": {
+      "id": 5,
+      "name": "paintings",
+      "image": "https://www.eikowa.com/wp-content/uploads/2020/01/Old-City-M-singh-1024x396.jpeg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Vintage Paintings",
+    "price": 600,
+    "description": "Traditional Indian Paintings for vintage lovers",
+    "category": {
+      "id": 5,
+      "name": "paintings",
+      "image": "https://www.artzolo.com/sites/default/files/blog/images/gond-paintings.jpg?w=640&h=480&r=7546"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Sandals",
+    "price": 350,
+    "description": "Sandals for flaunting your skirts",
+    "category": {
+      "id": 1,
+      "name": "chappals",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/zoom/9916628a.jpg?w=640&h=480&r=8120"
+    }
+  }
+]
